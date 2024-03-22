@@ -1,0 +1,14 @@
+body{
+    margin: 0px;
+}
+div{
+    border: 2px solid pink;
+    height: 250px;
+    width: 250px;
+    background-color: rgb(255,77,0);
+    transform: translate(200px,200px);
+}
+div:hover{
+    width: 200px;
+    height: 200px;
+}
